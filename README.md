@@ -5,7 +5,6 @@ In this project, we developed a basic image-processing app with five distinct pa
 
 ## A glance at the function we achieved:
 
-<div style="display: flex; justify-content: center;">
   <table>
     <thead>
       <tr>
@@ -25,7 +24,6 @@ In this project, we developed a basic image-processing app with five distinct pa
       </tr>
     </tbody>
   </table>
-</div>
 
   <table>
     <thead>
@@ -47,3 +45,66 @@ In this project, we developed a basic image-processing app with five distinct pa
     </tbody>
   </table>
 
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2" style="text-align:center;">#3 Adjust Brightness</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:center;">
+          <img src="https://github.com/RitaYujiaWu/Basic-Image-Processing-Application/blob/main/img/test_image_32x32.png" alt="original" width="200"><br>
+          <em>The original image</em>
+        </td>
+        <td style="text-align:center;">
+          <img src="https://github.com/RitaYujiaWu/Basic-Image-Processing-Application/blob/main/img/exp/test_image_32x32_adjusted.png" alt="adjusted" width="200"><br>
+          <em>The adjusted image</em>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+<table>
+    <thead>
+      <tr>
+        <th colspan="2" style="text-align:center;">#4 Add Sticker</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:center;">
+          <img src="https://github.com/RitaYujiaWu/Basic-Image-Processing-Application/blob/main/img/mona_lisa.png" alt="mona" width="200"><br>
+          <em>The original image</em>
+        </td>
+        <td style="text-align:center;">
+          <img src="https://github.com/RitaYujiaWu/Basic-Image-Processing-Application/blob/main/img/steve.png" alt="sticker" width="200"><br>
+          <em>The sticker image</em>
+        </td>
+        <td style="text-align:center;">
+          <img src="https://github.com/RitaYujiaWu/Basic-Image-Processing-Application/blob/main/img/exp/steve_mona_lisa.png" alt="steve-mona" width="200"><br>
+          <em>The sticker-added image</em>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2" style="text-align:center;">#5 Edge Highlight</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:center;">
+          <img src="https://github.com/RitaYujiaWu/Basic-Image-Processing-Application/blob/main/img/mona_lisa.png" alt="mona" width="200"><br>
+          <em>The original image</em>
+        </td>
+        <td style="text-align:center;">
+          <img src="https://github.com/RitaYujiaWu/Basic-Image-Processing-Application/blob/main/img/exp/mona_lisa_edge.png" alt="edge" width="200"><br>
+          <em>The edge of the original image</em>
+        </td>
+      </tr>
+    </tbody>
+  </table>
