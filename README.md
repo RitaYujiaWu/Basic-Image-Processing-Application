@@ -3,7 +3,7 @@
   
 In this project, we developed a basic image-processing app with five distinct parts including image storage, various image-processing methods, stimulation of a monetized app with inheritance, and implementation of a KNN classifier to predict image labels.  
 
-## A glance at the function we achieved:
+## A glance at the main functions we achieved:
 
   <table>
     <thead>
@@ -108,3 +108,4 @@ In this project, we developed a basic image-processing app with five distinct pa
       </tr>
     </tbody>
   </table>
+And there are more ...
