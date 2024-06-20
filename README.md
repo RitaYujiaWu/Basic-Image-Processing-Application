@@ -107,5 +107,6 @@ In this project, we developed a basic image-processing app with five distinct pa
         </td>
       </tr>
     </tbody>
-  </table>
+  </table>  
+  
 And there are more ...
