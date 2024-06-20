@@ -25,6 +25,7 @@ In this project, we developed a basic image-processing app with five distinct pa
       </tr>
     </tbody>
   </table>
+</div>
 
   <table>
     <thead>
@@ -45,4 +46,4 @@ In this project, we developed a basic image-processing app with five distinct pa
       </tr>
     </tbody>
   </table>
-</div>
+
