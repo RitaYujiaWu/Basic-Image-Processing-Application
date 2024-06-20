@@ -1,5 +1,6 @@
 # Basic-Image-Processing-Application
-(this is a project for DSC20 in UCSD)  
+(this is a project for DSC20 at UCSD)  
+By: Rita Wu, Jasmine Xia  
   
 In this project, we developed a basic image-processing app with five distinct parts including image storage, various image-processing methods, stimulation of a monetized app with inheritance, and implementation of a KNN classifier to predict image labels.  
 
